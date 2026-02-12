@@ -8,7 +8,7 @@ This project provides a practical implementation of a Question Answering system 
 
 ## Features
 
-*   **State-of-the-Art Model:** Utilizes the DistilBERT model, a smaller, faster, and lighter version of BERT, which is ideal for production environments.
+*   **State-of-Art Model:** Utilizes the DistilBERT model, a smaller, faster, and lighter version of BERT, which is ideal for production environments.
 *   **Standard Dataset:** Uses the well-known SQuAD dataset for training and evaluation.
 *   **End-to-End Pipeline:** Provides a complete pipeline for a QA system, including:
     *   Data loading and preprocessing.
