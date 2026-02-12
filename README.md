@@ -33,8 +33,3 @@ To run the trained model on new data:
 - Preprocess the new data: Tokenize the questions and contexts using the DistilBERT tokenizer, ensuring the input format is compatible with the model.
 - Inference: Perform inference using the loaded model on the preprocessed data to generate predictions.
 - Evaluate: Evaluate the model's performance on the new data using appropriate metrics.
-
-## Contributors
-- Lakshana Tekula
-- Pranathi Sundari
-- Vikas Ravula
